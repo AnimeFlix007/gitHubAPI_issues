@@ -1,0 +1,20 @@
+table {
+    padding: 1rem;
+    width: 100%;
+}
+
+td {
+    text-align: center;
+}
+
+.open {
+    background: rgb(152, 248, 152);
+    border-radius: 10px;
+    padding: 4px 5px;
+}
+
+.closed {
+    padding: 4px 5px;
+    border-radius: 10px;
+    background: rgb(241, 122, 122);
+}
